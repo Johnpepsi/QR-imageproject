@@ -8,3 +8,5 @@ I used my own Github profile link for users for them to be able to see the click
 * Use the inquirer npm package to get user input
 * Use the qr-image npm package to turn the user entered URL into a QR Code image.
 * Created a txt file to save the user input using the native fs node module.
+
+![qr screeshot](https://github.com/Johnpepsi/QR-imageproject/assets/112512965/016badd0-fe9c-4a0b-a70b-f99319f944a3)
